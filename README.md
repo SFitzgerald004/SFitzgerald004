@@ -45,6 +45,7 @@ I'm always open to talking about new projects or opportunities.
 
 * **Email:** sfitzgerald004@gmail.com
 * **[LinkedIn](https://www.linkedin.com/in/sean-fitzgerald-992455327/)**
+* **[Handshake](https://app.joinhandshake.com/profiles/pevqhd)**
 
 <!--
 **SFitzgerald004/SFitzgerald004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
