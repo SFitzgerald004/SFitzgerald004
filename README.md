@@ -43,8 +43,8 @@ Here are the technologies and tools I'm most comfortable with:
 
 I'm always open to talking about new projects or opportunities.
 
-* **Email:** sfitzgerald004@gmail.com 
-* **LinkedIn:** `[https://www.linkedin.com/in/sean-fitzgerald-992455327/]`
+* **Email:** sfitzgerald004@gmail.com
+* **[LinkedIn](https://www.linkedin.com/in/sean-fitzgerald-992455327/)**
 
 <!--
 **SFitzgerald004/SFitzgerald004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
